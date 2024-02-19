@@ -21,7 +21,7 @@ const Task2 = () => {
       <div className="t2MainContainer">
         <div className="t2container">
           <div className="t2ContainerPart1">
-            <h2>{count}</h2>
+            <h1>{count}</h1>
           </div>
           <div className="t2ContainerPart2">
             <div className="t2ContainerPart2Inside1">

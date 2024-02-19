@@ -27,7 +27,7 @@
   text-align: center;
   margin-top: 40px;
 }
-h2 {
+h1 {
   padding: 4px 0px;
   color: whitesmoke;
 }
@@ -64,4 +64,7 @@ button:hover {
   padding: 8px 15px;
   border-radius: 4px;
   cursor: pointer;
+}
+.t2ContainerPart2Inside2:hover {
+  background-color: rgba(138, 24, 24, 0.991);
 }
