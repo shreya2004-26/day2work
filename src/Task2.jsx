@@ -14,7 +14,7 @@ const Task2 = () => {
     }
   };
   const deleteDigitFunc = () => {
-    setCount(0);
+    setCount(0); //setCount set to 0 after clicking on delete icon
   };
   return (
     <>
