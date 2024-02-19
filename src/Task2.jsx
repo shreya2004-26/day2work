@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./task2.css";
 const Task2 = () => {
-  const [count, setCount] = useState(0); // Declaring the state variable which is gatting changed
+  const [count, setCount] = useState(0); // Declaring the state variable which is getting changed
   const digIncrementFunc = () => {
     setCount(count + 1);
   };
